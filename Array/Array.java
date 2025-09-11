@@ -8,6 +8,8 @@ public class Array {
         
         // System.out.println("DVD Collection:" + dvdCollection[10]);
 
+        
+
         for (int i = 0; i < dvdCollection.length; i++) {
             if (dvdCollection[i] != null) {
                 System.out.println(dvdCollection[i]);
