@@ -4,6 +4,9 @@ public class Array {
         dvdCollection[0] = new DVD("Inception", 2010, "Christopher Nolan");
         dvdCollection[1] = new DVD("The Matrix", 1999, "The Wachowskis");
         dvdCollection[2] = new DVD("Interstellar", 2014, "Christopher Nolan");
+        dvdCollection[3] = new DVD("The Godfather", 1972, "Francis Ford Coppola");
+        
+        // System.out.println("DVD Collection:" + dvdCollection[10]);
 
         for (int i = 0; i < dvdCollection.length; i++) {
             if (dvdCollection[i] != null) {
