@@ -1,3 +1,5 @@
+//Given an array nums of integers, return how many of them contain an even number of digits.
+
 class Even{
     public int evenN(int[] nums){
         int count = 0;
